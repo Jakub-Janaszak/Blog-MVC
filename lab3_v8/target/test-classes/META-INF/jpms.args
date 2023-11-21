@@ -1,0 +1,4 @@
+--patch-module
+pl.polsl.lab3_v8=_
+--add-reads
+pl.polsl.lab3_v8=ALL-UNNAMED
